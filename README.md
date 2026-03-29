@@ -363,7 +363,7 @@ learn-claude-code                   claw0
 ## About
 <img width="260" src="https://github.com/user-attachments/assets/fe8b852b-97da-4061-a467-9694906b5edf" /><br>
 
-Scan with Wechat to follow us,
+Scan with WeChat to follow us,
 or follow on X: [shareAI-Lab](https://x.com/baicai003)
 
 ## License
